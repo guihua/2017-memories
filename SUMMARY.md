@@ -9,4 +9,6 @@
     * [Git 提交信息](/02/09.git.commit.md)
     * [Git Commit 工具](/02/09.git.commit.tools.md)
     * [Git CHANGELOG](/02/09.git.changelog.md)
+    * [React 属性访问](/02/10.react.props.md)
+    * [React 动画](/02/10.react.animate.md)
 * [前端社区和网站](/extend/blog.md)
