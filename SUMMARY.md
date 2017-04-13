@@ -32,4 +32,7 @@
 * [04]
     * [XSS 攻击](/04/12.xss.md)
     * [html 转义+过滤](/04/12.html.encode.md)
+    * [audio.js](/04/13.audiojs.md)
+    * [vue.js 构造](/04/13.vue.construct.md)
+    * [vue.js 模板](/04/13.vue.template.md)
 * [前端社区和网站](/extend/blog.md)
