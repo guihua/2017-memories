@@ -29,4 +29,7 @@
     * [HTML5 中判断横屏竖屏](/03/31.media.screen.md)
     * [检测设备方向](/03/31.device.detection.md)
     * [CSS 多媒体查询](/03/31.media.query.md)
+* [04]
+    * [XSS 攻击](/04/12.xss.md)
+    * [html 转义+过滤](/04/12.html.encode.md)
 * [前端社区和网站](/extend/blog.md)
