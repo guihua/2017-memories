@@ -35,4 +35,6 @@
     * [audio.js](/04/13.audiojs.md)
     * [vue.js 构造](/04/13.vue.construct.md)
     * [vue.js 模板](/04/13.vue.template.md)
+    * [vue 事件修饰符](/04/14.vue.event.md)
+    * [vue 按键修饰符](/04/14.vue.keyboard.md)
 * [前端社区和网站](/extend/blog.md)
