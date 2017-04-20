@@ -37,4 +37,8 @@
     * [vue.js 模板](/04/13.vue.template.md)
     * [vue 事件修饰符](/04/14.vue.event.md)
     * [vue 按键修饰符](/04/14.vue.keyboard.md)
+    * [手机类型判断](/04/20.mobile.detect.md)
+    * [字符串长度计算](/04/20.string.length.md)
+    * [获取 URL 中的参数](/04/20.query.string.md)
+    * [事件绑定](/04/20.bind.event.md)
 * [前端社区和网站](/extend/blog.md)
