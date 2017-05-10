@@ -51,4 +51,5 @@
     * [jQuery 自定义事件和动画](/05/02.jquery.animate.md)
     * [Ajax](/05/02.jquery.ajax.md)
     * [Canvas 进度条实现](/05/02.canvas.progress.md)
+    * [Eslint 配置](/05/09.eslint.md)
 * [前端社区和网站](/extend/blog.md)
