@@ -53,4 +53,5 @@
     * [Canvas 进度条实现](/05/02.canvas.progress.md)
     * [Eslint 配置](/05/09.eslint.md)
     * [高可读的 Git Commit Message](/05/10.git.message.md)
+    * [SPM 打点](/05/11.spm.md)
 * [前端社区和网站](/extend/blog.md)
