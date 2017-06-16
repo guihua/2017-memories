@@ -56,4 +56,7 @@
     * [SPM 打点](/05/11.spm.md)
     * [前端的再定位](/05/11.frontend.meaning.md)
     * [移动工作平台-业务思考](/05/11.crm.thinking.md)
+    * [Axios](/05/16.axios.md)
+    * [ESlint 常用规则](/05/19.eslint.rules.md)
+    * [Mac OSX下重装node.js](/05/27.node.reinstall.md)
 * [前端社区和网站](/extend/blog.md)
