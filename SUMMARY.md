@@ -72,6 +72,11 @@
     * [Git Tutorial](/06/28.git.tutorial.md)
 * [07]
     * [常用正则表达式](/07/03.reg.md)
+    * [使用CSS和SVG制作带纹理文本的三个技巧](/07/06.text.css&svg.md)
+    * [SVG Sprite](/07/06.svg.sprite.md)
+    * [SVG中的结构化、分组和引用元素](/07/07.svg.group.md)
+    * [CSS3 Heart](/07/07.css.heart.md)
+    * [SVG Progress Circle](/07/07.svg.progress.circle.md)
 * [SVG]
     * [SVG 基础](/svg/01.svg.basic.md)
     * [SVG 形状](/svg/02.svg.shape.md)
@@ -80,4 +85,9 @@
     * [SVG 工具](/svg/05.svg.tool.md)
     * [SVG 元素](/svg/06.svg.element.md)
     * [内联 SVG](/svg/07.svg.inline.md)
+    * [SVG 文件结构](/svg/08.svg.structure.md)
+    * [SVG 坐标系统](/svg/09.svg.coordinate.md)
+    * [理解 SVG 的 viewport、viewBox、preserveAspectRatio](/svg/10.svg.viewbox.md)
+    * [实现跨浏览器的SVG Sprites](/svg/11.svg.sprites.md)
+    * [使用 Line 指令创建路径](/svg/12.svg.line.md)
 * [前端社区和网站](/extend/blog.md)
