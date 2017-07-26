@@ -9,3 +9,5 @@
 * [ESLint](http://eslint.cn/docs/rules/)
 * [React VR](https://facebook.github.io/react-vr/)
 * [HAUL](https://github.com/callstack-io/haul)
+* [vue-router 2](https://router.vuejs.org/zh-cn/)
+* [Vue.js 中文入门](http://www.html-js.com/article/column/99)
