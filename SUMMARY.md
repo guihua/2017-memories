@@ -79,6 +79,10 @@
     * [SVG Progress Circle](/07/07.svg.progress.circle.md)
     * [Normalize.css](/07/18.normalize.css.md)
     * [Animate.css](/07/26.animate.css.md)
+    * [Slider](/07/27.slider.md)
+* [08]
+    * [git repository 操作](/08/01.git.repository.md)
+    * [设计原则](/08/03.design.frontend.md)
 * [SVG]
     * [SVG 基础](/svg/01.svg.basic.md)
     * [SVG 形状](/svg/02.svg.shape.md)

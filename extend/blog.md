@@ -11,3 +11,6 @@
 * [HAUL](https://github.com/callstack-io/haul)
 * [vue-router 2](https://router.vuejs.org/zh-cn/)
 * [Vue.js 中文入门](http://www.html-js.com/article/column/99)
+* [Vue.js Examples](http://vuejsexamples.com/)
+* [v-charts](https://elemefe.github.io/v-charts/#/)
+* [Learn ES2015](https://babeljs.io/learn-es2015/)
