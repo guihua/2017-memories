@@ -82,7 +82,8 @@
     * [Slider](/07/27.slider.md)
 * [08]
     * [git repository 操作](/08/01.git.repository.md)
-    * [设计原则](/08/03.design.frontend.md)
+    * [设计原则](/08/03.design.antd.md)
+    * [JS Snippets](/08/03.js.snippets.md)
 * [SVG]
     * [SVG 基础](/svg/01.svg.basic.md)
     * [SVG 形状](/svg/02.svg.shape.md)
@@ -108,4 +109,7 @@
     * [Canvas 贝塞尔曲线](/canvas/09.canvas.bezier-curve.md)
     * [Canvas 绘制多边形](/canvas/10.canvas.polygon.md)
     * [Canvas 坐标变换](/canvas/11.canvas.coordinate.md)
+* [DVA]
+    * [Ant Design 项目实战](/dva/01.dva.start.md)
+    * [DVA 知识图谱](/dva/02.dva.knowledge.map.md)
 * [前端社区和网站](/extend/blog.md)
