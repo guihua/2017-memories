@@ -84,6 +84,11 @@
     * [git repository 操作](/08/01.git.repository.md)
     * [设计原则](/08/03.design.antd.md)
     * [JS Snippets](/08/03.js.snippets.md)
+* [09]
+    * [数组过滤](/09/11.array.filter.md)
+    * [JS 数组遍历](/09/12.array.loop.md)
+    * [Node.js 获取本机 IP](/09/20.os.ip.md)
+    * [React 技术栈：组件类型](/09/21.react.component.md)
 * [SVG]
     * [SVG 基础](/svg/01.svg.basic.md)
     * [SVG 形状](/svg/02.svg.shape.md)

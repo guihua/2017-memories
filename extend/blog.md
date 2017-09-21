@@ -16,3 +16,6 @@
 * [Learn ES2015](https://babeljs.io/learn-es2015/)
 * [Weex-UI](http://weex-ui.alibaba.net/)
 * [Tables Generator](http://www.tablesgenerator.com/markdown_tables)
+* [余博伦-博客](https://yubolun.com/)
+* [React.js 小书](http://huziketang.com/books/react/)
+* [React 中文](https://doc.react-china.org/react/)
