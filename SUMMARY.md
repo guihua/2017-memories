@@ -107,6 +107,11 @@
 * [12]
     * [字符串长度补齐](/12/04.string.length.md)
     * [react 中的 scroll 事件处理](/12/05.react.scroll.md)
+    * [基于 Gulp+Webpack 快速搭建的前端自动化脚手架](/12/14.gulp.webpack.md)
+    * [数组操作](/12/27.array.operate.md)
+    * [数组检测](/12/27.array.detect.md)
+    * [Array 排序](/12/28.array.sort.md)
+    * [Array 合并](/12/28.array.concat.md)
 * [SVG]
     * [SVG 基础](/svg/01.svg.basic.md)
     * [SVG 形状](/svg/02.svg.shape.md)
